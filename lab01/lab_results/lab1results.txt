@@ -1,0 +1,12 @@
+Fill ArrayList: 10
+Fill LinkedList: 6
+Random access ArrayList: 9
+Random access LinkedList: 3712
+Sequential access ArrayList: 5
+Sequential access LinkedList: 3
+Insert to top ArrayList: 0
+Insert to bottom ArrayList: 0
+Insert to middle ArrayList: 0
+Insert to top LinkedList: 1
+Insert to bottom LinkedList: 1
+Insert to middle LinkedList: 68
